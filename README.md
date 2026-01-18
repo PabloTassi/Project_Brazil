@@ -79,7 +79,7 @@ copernicusmarine --version
 
 You should see the version displayed.
 
-### Step 9: Configure your credentials
+#### Step 9: Configure your credentials
 Run this command once to save your credentials (see procedure below):
 ```bash
 copernicusmarine login
